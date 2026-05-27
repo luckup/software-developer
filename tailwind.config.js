@@ -8,8 +8,8 @@ export default {
         display: ['"DM Sans"', 'system-ui', 'sans-serif'],
       },
       boxShadow: {
-        panel: '0 16px 48px rgba(0, 217, 255, 0.12)',
-        soft: '0 4px 24px rgba(0, 0, 0, 0.35)',
+        panel: '0 16px 48px rgba(0, 223, 255, 0.14)',
+        soft: '0 4px 24px rgba(42, 42, 42, 0.06)',
       },
       colors: {
         background: '#0B1020',
@@ -33,19 +33,16 @@ export default {
           900: '#F4F7FB',
         },
         brand: {
-          DEFAULT: '#00D9FF',
+          DEFAULT: '#00DFFF',
           600: '#00BFE6',
-          700: '#00A5CC',
-          light: '#0F2A35',
+          700: '#009FBD',
+          light: '#E6FBFF',
         },
         moon: {
-          navy: '#0B1020',
-          panel: '#151B2F',
-          teal: '#00D9FF',
-          sky: '#7C5CFF',
-        },
-        accent: {
-          violet: '#7C5CFF',
+          navy: '#2B2B2B',
+          panel: '#00BFE6',
+          teal: '#00DFFF',
+          sky: '#B8F4FF',
         },
       },
     },
